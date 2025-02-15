@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
   ![Itishri's GitHub stats](https://github-readme-stats.vercel.app/api?username=itishree1803&show_icons=true&theme=dracula)
-  ![Itishri's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=itishree1803&theme=dracula&hide_border=false)<br/>
