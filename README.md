@@ -1,9 +1,9 @@
-<h2 align="left">Hello and Welcome! I'm Itishri Sahoo</h2>
+<h2 align="left">Hello and Welcome! I'm Itishri Sahoo.</h2>
 <h3 align="left">Aspiring Engineer, eager to learn and grow!</h3>
 <p>📚 Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. Excited to explore new technologies and enhance my skills in the AI space.</p>
 - 📫 Contact me via **itishree1803@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/itishree-sahoo-8a289a256" target="_blank">LinkedIn</a></h3>
 <p>
 <a href="https://linkedin.com/in/itishree-sahoo-8a289a256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itishree-sahoo-8a289a256" height="30" width="40" /></a>
 </p>
