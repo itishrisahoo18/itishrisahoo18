@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itishree1803&show_icons=true&locale=en" alt="itishree1803" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itishree1803&" alt="itishree1803" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itishree1803&" alt="itishree1803" /></p>
