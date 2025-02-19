@@ -2,7 +2,7 @@
 <h2 align="left">Aspiring Engineer, eager to learn and grow!</h2>
 <p>📚💻 Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. Excited to explore new technologies and enhance my skills in the AI space.</p>
 
-<h2 align="left">🌐 Socials: </h2>
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itishree-sahoo-8a289a256) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Itishri-Sahoo-3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/itishree_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itishree1803@gmail.com) 
 
 <h2 align="left">⚙️ Tech Stack Languages & Tools I Work With : </h2>
