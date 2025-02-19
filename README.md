@@ -1,4 +1,4 @@
-## Hello and Welcome! I'm Itishri Sahoo.
+<h1 align="left"> Hello and Welcome! I'm Itishri Sahoo.</h1>
 <h2 align="left">Aspiring Engineer, eager to learn and grow!</h2>
 <p>📚💻 Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. Excited to explore new technologies and enhance my skills in the AI space.</p>
 
