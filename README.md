@@ -16,7 +16,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itishree1803&theme=dark&hide_border=false" alt="itishree1803" /></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itishree1803&limit=5&theme=dark&combine_all_yearly_contributions=true)
