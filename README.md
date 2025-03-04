@@ -13,13 +13,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itishree1803&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itishree1803&theme=dark&hide_border=false" alt="itishree1803" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itishree1803&theme=dark&hide_border=false" alt="itishree1803" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itishree1803&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
