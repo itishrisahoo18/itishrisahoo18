@@ -11,7 +11,7 @@
 ## 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=itishree1803&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itishree1803&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itishree1803&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itishree1803&theme=dark&hide_border=false" alt="itishree1803" /></p>
 
